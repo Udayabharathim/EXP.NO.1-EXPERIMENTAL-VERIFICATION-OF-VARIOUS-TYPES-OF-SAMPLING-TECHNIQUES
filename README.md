@@ -44,6 +44,7 @@ pass Butterworth filter and take necessary observation as mentioned below.
 ![image](https://github.com/user-attachments/assets/fed22429-28a6-49b0-b41a-aa05b25a8493)
 
 ## OUTPUT GRAPHS
+![WhatsApp Image 2025-04-09 at 10 55 17_2776eeda](https://github.com/user-attachments/assets/e49936fb-69ef-437f-8e35-44456164e23a)
 
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.

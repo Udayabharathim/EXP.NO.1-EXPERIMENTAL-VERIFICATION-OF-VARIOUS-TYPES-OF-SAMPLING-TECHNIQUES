@@ -41,8 +41,9 @@ pass Butterworth filter and take necessary observation as mentioned below.
 ![image](https://github.com/user-attachments/assets/65dc4597-8c81-4adf-8837-5a2d111d065f)
 
 ## TABLE
+![image](https://github.com/user-attachments/assets/fed22429-28a6-49b0-b41a-aa05b25a8493)
 
 ## OUTPUT GRAPHS
 
 ## RESULT 
-Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques.
+Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.
